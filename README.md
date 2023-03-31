@@ -1,6 +1,6 @@
 # Unconference
 Mission: *the most efficient way **ever** to organize a conference*
-
+* * *
 **Problem:** organizing conferences is not as easy as it could be
 
 The general idea is to use the Hong Kong unconference as a test case to discover problems (and solutions) in the critical path to a fun unconference.
