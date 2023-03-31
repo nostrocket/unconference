@@ -1,5 +1,5 @@
 # Unconference
-*the most efficient way ever to organize a conference*
+Mission: *the most efficient way ever to organize a conference*
 
 **Problem:** organizing conferences is not as easy as it could be
 
